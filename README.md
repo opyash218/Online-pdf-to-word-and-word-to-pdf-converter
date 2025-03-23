@@ -1,8 +1,6 @@
 # ConvertAPI Node.js Client
 
-[![npm version](https://badge.fury.io/js/convertapi.svg)](https://badge.fury.io/js/convertapi)
-[![Build Status](https://github.com/ConvertAPI/convertapi-node/actions/workflows/main.yml/badge.svg)](https://github.com/ConvertAPI/convertapi-node/actions)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+A Node.js-based online tool that allows users to convert PDF to Word and Word to PDF seamlessly.
 
 ## Convert your files with our online file conversion API
 
@@ -167,10 +165,4 @@ Find more advanced examples in the [examples/](https://github.com/ConvertAPI/con
 - `npm run build` - Babel will transpile ES6 => ES5 and minify the code.
 - `npm run prepublish` - Hook for npm. Do all the checks before publishing your module.
 
-## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/ConvertAPI/convertapi-node. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-## License
-
-ConvertAPI Node.js Client is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
